@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Wl6qgpta+Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\solil\\source\\repos\\Login_Sign-in\\Login_Sign-in\\Login_Sign-in.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solil\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.14\\system.configuration.configurationmanager.10.0.14.nupkg.sha512",
+    "C:\\Users\\solil\\.nuget\\packages\\system.data.oledb\\10.0.14\\system.data.oledb.10.0.14.nupkg.sha512",
+    "C:\\Users\\solil\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.14\\system.diagnostics.eventlog.10.0.14.nupkg.sha512",
+    "C:\\Users\\solil\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.14\\system.diagnostics.performancecounter.10.0.14.nupkg.sha512",
+    "C:\\Users\\solil\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.14\\system.security.cryptography.protecteddata.10.0.14.nupkg.sha512",
+    "C:\\Users\\solil\\.nuget\\packages\\system.threading.accesscontrol\\10.0.14\\system.threading.accesscontrol.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
